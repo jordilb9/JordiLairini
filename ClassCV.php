@@ -15,5 +15,8 @@ class ClaseSencilla
     public function mostrarVar() {
         echo $this->var;
     }
+    public function meto2() {
+        
+    }
 }
 ?>
