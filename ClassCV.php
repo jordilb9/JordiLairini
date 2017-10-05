@@ -13,7 +13,7 @@ class ClaseSencilla
 
     // Declaración de un método
     public function mostrarVar() {
-        echo $this->var;
+        echo $this->var; //lk
     }
     
     public function meto2() {
@@ -30,7 +30,7 @@ class ClaseSencilla
     
     
     public function fantasma() {
-        
+        echo "Fantasma";
     }
 }
 ?>
