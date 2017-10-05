@@ -28,5 +28,9 @@ class ClaseSencilla
         
     }
     
+    
+    public function fantasma() {
+        
+    }
 }
 ?>
