@@ -30,7 +30,7 @@ class ClaseSencilla
     
     
     public function fantasma() {
-        echo $this->var;
+        echo "Fantasma";
     }
 }
 ?>
