@@ -13,7 +13,7 @@ class ClaseSencilla
 
     // Declaración de un método
     public function mostrarVar() {
-        echo $this->var;//pop
+        echo $this->var;//hfghfghgf
         echo $this->var; //lk 
        
     }
