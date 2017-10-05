@@ -24,5 +24,9 @@ class ClaseSencilla
         
     }
     
+    public function meto4() {
+        
+    }
+    
 }
 ?>
